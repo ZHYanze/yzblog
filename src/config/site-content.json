@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "枕月酌",
+		"description": "道阻且长，行则将至！",
+		"username": "imzyz"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -44,22 +44,22 @@
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
+			"type": "tg",
+			"value": "https://t.me/ZHYanze",
+			"label": "TG",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "link",
+			"value": "https://blog.imzyz.com",
+			"label": "BLOG",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "hello@imzyz.com",
 			"label": "",
 			"order": 1
 		}
