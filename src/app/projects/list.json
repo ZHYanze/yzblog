@@ -31,5 +31,28 @@
 			"枕月酌",
 			"博客"
 		]
+	},
+	{
+		"name": "影视聚合平台",
+		"year": 2026,
+		"image": "blob:https://imzyz.com/df2d4211-7141-46fb-99d5-b2ace9a91498",
+		"url": "https://v.imzyz.com",
+		"description": "自用在线播放影视库",
+		"tags": [
+			"影视库",
+			"全网影视",
+			"影视搜索"
+		]
+	},
+	{
+		"name": "speedtest",
+		"year": 2026,
+		"image": "blob:https://imzyz.com/a89912d9-f8a2-493b-9404-009b1b7f4363",
+		"url": "https://nas.imzyz.com:30002",
+		"description": "nas链接速度测试",
+		"tags": [
+			"speedtest",
+			"测速"
+		]
 	}
 ]
