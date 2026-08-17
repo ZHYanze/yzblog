@@ -76,5 +76,16 @@
 		"tags": [
 			"网盘"
 		]
+	},
+	{
+		"name": "外网服务器",
+		"year": 2026,
+		"image": "blob:https://imzyz.com/ea34d1ed-76d2-4b61-8ab1-e956628ce02c",
+		"url": "http://ww.dbeer.cn:9999/",
+		"description": "内网穿透服务器",
+		"tags": [
+			"服务器",
+			"内网穿透"
+		]
 	}
 ]
