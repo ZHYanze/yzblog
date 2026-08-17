@@ -54,5 +54,27 @@
 			"speedtest",
 			"测速"
 		]
+	},
+	{
+		"name": "搜小说",
+		"year": 2026,
+		"image": "blob:https://imzyz.com/e9350e8b-9890-4733-84e8-b524cf57dfeb",
+		"url": "https://sou.imzyz.com",
+		"description": "全网小说下载工具，番茄个别书籍会出问题",
+		"tags": [
+			"小说",
+			"全网小说",
+			"小说下载"
+		]
+	},
+	{
+		"name": "外链网盘",
+		"year": 2026,
+		"image": "blob:https://imzyz.com/95c4777d-6122-428e-8cc4-15e3263013f4",
+		"url": "https://pan.imzyz.com",
+		"description": "自用外链网盘",
+		"tags": [
+			"网盘"
+		]
 	}
 ]
